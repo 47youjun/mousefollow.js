@@ -10,6 +10,7 @@
 			y: 20                    // 距离鼠标的垂直距离
 
 #使用demo：
+![image](https://github.com/YuTingtao/mousefollow.js/blob/master/images/eg-1.gif)
 
 html：
 
