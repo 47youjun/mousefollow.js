@@ -14,17 +14,17 @@
 
 html：
 
-	<ul class="imglist eg-2">
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
-		<li><a href="#"></a></li>
+	<ul class="imglist eg-1">
+		<li data-imgurl="images/1.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/2.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/1.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/2.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/1.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/2.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/1.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/2.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/1.jpg"><a href="#"></a></li>
+		<li data-imgurl="images/2.jpg"><a href="#"></a></li>
 	</ul>
   
 	<ul class="imglist eg-2">
